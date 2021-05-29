@@ -1,3 +1,5 @@
+// Added a new comment
+
 // let users = ["Frank", "Choongsaeng", "Micheal"]
 // let users = new Array("Frank", "Choongsaeng", "Micheal")
 
